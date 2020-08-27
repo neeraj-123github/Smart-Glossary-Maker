@@ -7,7 +7,9 @@ There are different services which make user to understand the pdf quickly.
 NLTK, Regular Expression and many other libraries are used for text preprocessing
 ## Library/Package used 
 NLTK , RE , Pdf_miner , Pandas / Numpy 
-"Flask"
+
+
+Flask
 ## Language Used
 PYTHON 
 
